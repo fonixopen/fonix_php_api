@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/fonixopen/fonix_php_api.svg?branch=master)](https://travis-ci.org/fonixopen/fonix_php_api)
+
 # Fonix PHP bindings
 
 Please contact use at https://fonix.com/contact-us to get started.
